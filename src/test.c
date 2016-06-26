@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../test.h";
+#include "../include/test.h"
 
 int add_nums(int a, int b)
 {
@@ -9,6 +9,11 @@ int add_nums(int a, int b)
 int mult_nums(int a, int b)
 {
 	return a * b;
+}
+
+int diff_nums(int a, int b)
+{
+	return a - b;
 }
 
 int main()
