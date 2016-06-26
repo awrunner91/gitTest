@@ -6,6 +6,11 @@ int add_nums(int a, int b)
 	return a + b;
 }
 
+int mult_nums(int a, int b)
+{
+	return a * b;
+}
+
 int main()
 {
 	int x = 2;
