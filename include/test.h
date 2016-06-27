@@ -15,3 +15,5 @@ int mult_nums(int a, int b);
  * and returns their difference.
 **/
 int diff_nums(int a, int b);
+
+int garbage(int a, int b);
