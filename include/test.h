@@ -16,4 +16,3 @@ int mult_nums(int a, int b);
 **/
 int diff_nums(int a, int b);
 
-//This is a comment from the other repo.
